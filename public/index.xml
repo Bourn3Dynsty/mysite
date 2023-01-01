@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wise Monkey.xyz on Matt DiBiaso a.k.a Wise Monkey</title>
+    <link>https://yoursite.com/</link>
+    <description>Recent content in Wise Monkey.xyz on Matt DiBiaso a.k.a Wise Monkey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yoursite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yoursite.com/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoursite.com/blog/</guid>
+      <description>Ramblings of an old man Blog post 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dignissim nibh in dolor fermentum, eu condimentum ante pulvinar. Vestibulum id lectus at sapien lobortis suscipit. Integer scelerisque, lacus eu imperdiet condimentum, urna quam ornare nulla, at blandit nisi nisi vel urna. Proin euismod tortor a elit dictum, id dictum justo fermentum. Aliquam erat volutpat. Suspendisse potenti. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yoursite.com/hireme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoursite.com/hireme/</guid>
+      <description>Hire Me As a highly experienced professional in the field of information systems, I understand the importance of these systems in automating and powering business operations in virtually every industry. Organizations rely on enterprise applications to enhance productivity and efficiency, integrating all departments in order to effectively address business needs. In addition, cybersecurity has become increasingly relevant as the world becomes more connected and reliant on technology. Without a thorough understanding of information security threats, it can be difficult to effectively develop, secure, and maintain an information system.</description>
+    </item>
+    
+    <item>
+      <title>My Security Library</title>
+      <link>https://yoursite.com/pages/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoursite.com/pages/test/</guid>
+      <description>Introduction Welcome to my security library! In this document, I will be sharing some of the books that I have found useful in my journey as a security professional. I hope that this list will be helpful to you as you explore similar topics.
+Linux Basics for Hackers
+Date Read: 2022
+Note: Linux Basics for Hackers is immediately practical. Its quick and dirty approach to exploring and using a Linux system was welcome.</description>
+    </item>
+    
+  </channel>
+</rss>
