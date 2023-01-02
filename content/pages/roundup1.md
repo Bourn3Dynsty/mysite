@@ -1,7 +1,7 @@
 ---
 title: My Security Library
 date: 2023-1-01
-description: ""
+description: "In this document, I will be sharing some of the books that I have found useful in my journey as a security professional. I hope that this list will be helpful to you as you explore similar topics."
 ---
 # Introduction
 
